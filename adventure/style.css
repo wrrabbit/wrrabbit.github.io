@@ -1,0 +1,78 @@
+body {padding:0; margin:0; background: #ade8e8; font-family:"Palatino";}
+.beach {
+    width: 1500px; 
+    height: 750px;
+    }
+    
+.title {
+    text-align: center;
+}
+.paragraph {
+    text-align: center;
+}
+.images {
+    text-align: center;
+}
+.images2 {
+    text-align: center;
+}
+.question {
+    text-align: center;
+    font-size: 30px;
+}
+.question2 {
+    text-align: center;
+    font-size: 30px;
+}
+.images2 {
+    font-size: xx-small;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.cap1 {
+    text-align: center;
+    width: 50%;
+    float:left;
+    font-size: 10px;
+    max-width: 500px;
+    padding-left: 200px;
+}
+.cap2 {
+    text-align: center;
+    width: 50%;
+    float: right;
+    font-size: 10px;
+    max-width: 500px;
+    padding-right: 200px;
+}
+
+.question2 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.option1 {
+    text-align: center;
+    font-size: 20px;
+}
+
+.option2 {
+    text-align: center;
+    font-size: 20px;
+}
+
+.cap3 {
+    text-align: center;
+}
+
+.cap4 {
+    text-align: center;
+    font-size: 13px;
+}
+
+.paragraph1 {
+    text-align: center;
+    font-size: 20px;
+}
